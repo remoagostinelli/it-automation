@@ -1,11 +1,8 @@
-# Word Cloud
-Generate a "word cloud" from Dante Alighieri's The Divine Comedy, Paradise.
+# Google IT Automation with Python
+Automate tasks by writing Python scripts
 
-Input:
+Use Git and GitHub for version control
 
-![pg8799 cover medium](https://user-images.githubusercontent.com/84648646/204116706-82aa4332-8333-4e9f-b27f-ee834aa6c878.jpg)
+Manage IT resources at scale, both for physical machines and virtual machines in the cloud 
 
-
-Output:
-
-![output](https://user-images.githubusercontent.com/84648646/204116920-a05cca3a-14f4-4200-ba67-15bd538f6437.png)
+Analyze real-world IT problems and implement the appropriate strategies to solve those problems
