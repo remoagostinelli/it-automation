@@ -7,6 +7,6 @@ Research: Input must be sorted by date. Use a function to chronologically order 
 
 Planning: Use a dictionary of sets to store the current users along with the machines they are using. Once the events are processed, print a report.
 
-Writing the script: Use a function to create the dictionary, a second one to sort it, and third one to print it.
+Writing the script: Use a function to create the dictionary, a second one to sort it, and a third one to print it.
 
 Putting it all together: Store and debug the code in a Jupyter Notebook.
