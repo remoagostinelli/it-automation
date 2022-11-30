@@ -3,8 +3,6 @@
 import sys
 import subprocess
 
-
-
 with open(sys.argv[1], 'r', encoding='UTF-8') as oldFiles:
         for file in oldFiles.readlines():
                 file = file.strip()
