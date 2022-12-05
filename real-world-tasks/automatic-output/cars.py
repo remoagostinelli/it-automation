@@ -85,7 +85,6 @@ def cars_dict_to_table(car_data):
 def main(argv):
   """Process the JSON data and generate a full report out of it."""
   data = load_data("car_sales.json")
-  # data = load_data(os.path.expanduser('~') + "/car_sales.json")
   summary = process_data(data)
   
   """
