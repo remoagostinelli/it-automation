@@ -17,7 +17,7 @@ for file in files:
         feedback["feedback"] = lines[3]
 
     # Post to the company's website
-    response = requests.post("http://34.173.57.203/feedback/", json=feedback)
+    response = requests.post("http://localhost/feedback/", json=feedback)
 
     # Return HTTP request status code
     if not response.ok:

@@ -1,9 +1,19 @@
-# Automating Real-World Tasks with Python
-### Image Manipulator
-Scale and convert images using PIL  
-### Serializer
-Process text files with JSON and upload them to a running web service  
-### PDF Report
-Automatically generate a PDF report and send it by email through an SMTP server  
-### Catalog Update
-Automate updating catalog information and use a script to check system health status
+# Automating Real-World Tasks
+
+Automate system administration tasks with Python scripts.
+
+### Cars
+Generate a car sales PDF report and send it by email.
+
+### Feedback
+Submit customer feedback to a web server.
+
+### Fruits
+Update a fruit catalog and check system health.
+
+### Pillow
+A command-line tool that takes an image folder so that each image:
+
+- Rotates 90° clockwise
+- Resizes to 128x128 pixels
+- Converts to JPEG
